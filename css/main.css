@@ -1,0 +1,19 @@
+body {
+    background-color: antiquewhite;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+#win-button {
+    font-size: 50px;
+    width: 50%;
+    margin: 50px;
+    border-radius: 5px;
+}
+
+#message {
+    text-align: center;
+    font-size: 90px;
+}
